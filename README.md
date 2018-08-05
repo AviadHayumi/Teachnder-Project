@@ -9,4 +9,3 @@ if you are a teacher this app will help you find stuends for private lessons , a
 ![whatsapp image 2018-08-05 at 09 14 31 3](https://user-images.githubusercontent.com/42099025/43683244-6160c2ae-9890-11e8-8637-db43bc7274dd.jpeg)
 ![whatsapp image 2018-08-05 at 09 14 31 4](https://user-images.githubusercontent.com/42099025/43683245-6187e974-9890-11e8-9f13-570bf81ea41c.jpeg)
 ![whatsapp image 2018-08-05 at 09 14 31 5](https://user-images.githubusercontent.com/42099025/43683246-61a798dc-9890-11e8-8da9-b9ea04d8795a.jpeg)
-![whatsapp image 2018-08-05 at 09 14 31 6](https://user-images.githubusercontent.com/42099025/43683247-61c67554-9890-11e8-8db8-7c7c7e3ae109.jpeg)
