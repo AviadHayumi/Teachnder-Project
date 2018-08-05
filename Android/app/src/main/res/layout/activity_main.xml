@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical"
+    android:layout_weight="10">
+
+
+    <com.lorentzos.flingswipe.SwipeFlingAdapterView
+        android:id="@+id/frame"
+        android:background="#ffeee9e2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:rotation_degrees="15.5"
+        tools:context=".MyActivity"
+        android:layout_weight="9"
+
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Matches"
+        android:layout_weight="1"
+        android:onClick="goToMatches"
+        android:background="@color/colorPrimary"
+        android:layout_margin="7dp"
+        android:textColor="#ffffff"
+
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Settings"
+        android:layout_weight="1"
+        android:onClick="onSettingClicked"
+        android:background="@color/colorPrimary"
+        android:layout_margin="7dp"
+        android:layout_marginBottom="5dp"
+        android:textColor="#ffffff"
+
+        />
+
+
+
+
+</LinearLayout>
