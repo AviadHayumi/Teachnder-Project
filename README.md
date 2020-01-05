@@ -1,3 +1,6 @@
+<h4> This project was developed years ago as hobby of creating apps. 
+  The api haven't designed well, and there are no test if i would make this again i will treat this things </h4>
+
 "# Teachnder-Project" 
 if you are a teacher this app will help you find stuends for private lessons , and if you are a student this app will help you find the best teachers.  In this app you get all the potential teachers.  if you are intersted in this teacher just swipe right and if not swipe left. if you want to get more information about the teacher just tap on him.  if there is a connection , you would be able to chat with your teacher , set price and etc..  also you have the option You have the option to search for students and teachers by category, for example English.
 
